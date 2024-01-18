@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaihanJL
+- 👋 Hi, I’m Raihan Jordy Laban
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS and Express
 
